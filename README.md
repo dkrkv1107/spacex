@@ -5,3 +5,5 @@ To run this on your local computer. us command "npm imstall"
 this will install all dependencies on your computer
 
 Then use "npm start" to deploy this website on localhost
+
+https://agitated-allen-a33d2e.netlify.app/
